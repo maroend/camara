@@ -1,0 +1,49 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "camara.example.com"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "camara.example.com"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "camara.example.com"
+    }
+  }
+}
