@@ -60,8 +60,8 @@ function cameraTakePicture() {
     });  
     
     function onSuccess(imageData) { 
-       var image = document.getElementById('myImage'); 
-       image.src = "data:image/png;base64," + imageData; 
+       var image = document.getElementById('myPhoto'); 
+       image.src = "data:image/jpeg;base64," + imageData; 
        alert(imageData);
     }  
     
